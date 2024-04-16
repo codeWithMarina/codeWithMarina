@@ -1,12 +1,12 @@
 ### Hello there! 👋
 
-👩‍💻 Hello, I'm Marina. I studied art at the State Academy of Fine Arts of Armenia 🎨 and then moved into digital design. Four years ago, I began programming websites and apps.
+👩‍💻 Hi, I'm Marina. After transitioning from art and digital design, I've spent the past five years programming websites and applications. 
 
-🔭 Right now, I'm focusing on creating awesome user experiences with JavaScript and mastering frontend frameworks like React and Angular.
+🔭 I'm currently a Senior Frontend Engineer focusing on delivering exceptional user experiences using JavaScript, React, and Angular.
 
-🌱 I'm always excited to learn new tech stuff.
+🌱 I'm passionate about continuously learning and embracing new technologies.
 
-😄 Fun fact: When I'm not coding, I like doodling in my code editor! 🎨✏️
+😄 Fun fact: I love to express my creativity by doodling directly in my code editor! 🎨✏️
 
  ## Languages and Tools 🛠️
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
